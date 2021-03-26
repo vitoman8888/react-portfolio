@@ -5,13 +5,12 @@ import Portfolio from '../Portfolio';
 import Resume from '../Resume';
 
 
-function Main(props) {
+function Project(props) {
 
     const {menuSelected} = props;
 
     return (
         <main>
-            <h1>MAIN</h1>
             {menuSelected === "About Me" ? (<About></About>) : (<> </>) }
             {menuSelected === "Contact" ? (<Contact></Contact>)  : (<> </>) }
             {menuSelected === "Portfolio" ? (<Portfolio></Portfolio>) : (<> </>)  }
@@ -20,4 +19,4 @@ function Main(props) {
     )
 }
 
-export default Main;
+export default Project;

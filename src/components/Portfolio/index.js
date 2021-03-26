@@ -1,9 +1,13 @@
 import React from "react";
+import TabTitle from "../../assets/VitoVittorePortfolioPortfolio.png";
+
 
 function Portfolio(props) {
 
     return (
-        <h1>PORTFOLIO</h1>
+        <section className="tabSection">
+        <img className='tabImageHeader' src={TabTitle} alt="Portfolio" />
+        </section>
     )
 }
 
