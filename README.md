@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Vito Vittore's React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is the link to the program [React Portfolio](http://vitoman8888.github.io/react-portfolio).
 
-## Available Scripts
+## About Me
+
+
 
 In the project directory, you can run:
 
