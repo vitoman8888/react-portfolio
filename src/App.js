@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 
 function App() {
 
-  const [menuSelected, setMenuSelected] = useState('Contact');
+  const [menuSelected, setMenuSelected] = useState('About Me');
 
   return (
     <div>
