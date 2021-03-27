@@ -4,7 +4,7 @@ Here is the link to the program [React Portfolio](http://vitoman8888.github.io/r
 
 ## About Me
 
-![About Me screen](readme/react-portfolio-about.png)
+![About Me screen](./readme/react-portfolio-about.png)
 
 In the project directory, you can run:
 
